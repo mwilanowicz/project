@@ -1,6 +1,7 @@
 // References:
 // https://electronoobs.com/eng_arduino_tut125.php#google_vignette
 // https://arduinogetstarted.com/tutorials/arduino-button-long-press-short-press#google_vignette
+// https://www.arduinoslovakia.eu/application/timer-calculator
 
 
 // 25600 Hz (16000000/((624+1)*1)) -> 10ms -> 100 Hz
